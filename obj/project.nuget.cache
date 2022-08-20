@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zezDwrI4l+n/gH1tSlMx65z5a3MmpbEy6ed0mpHnjqUzJUbkvEve6q9I1wDqjcgoSsTJudCTolsg9vClmeVOXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Personal\\Repos\\real-time-chat\\real-time-chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Personal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Personal\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Personal\\.nuget\\packages\\signalrswaggergen\\3.3.0\\signalrswaggergen.3.3.0.nupkg.sha512",
+    "C:\\Users\\Personal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Personal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\Personal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\Personal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
